@@ -3,6 +3,7 @@
 I'm a Data Engineer with over 6 years of experience, specializing in Google Cloud Platform (GCP). My expertise includes building robust data pipelines, optimizing data workflows, and delivering scalable solutions for enterprise clients.
 
 - 🏢 Most recently, I was employed at LTIMindtree until March 2025.
+- 🎓 Incoming student in the Masters in Software Engineering (MSSE) program at San Jose State University (SJSU), Fall 2025.
 - ☁️ Passionate about cloud data engineering, automation, and data-driven decision making.
 - 💡 Always eager to learn new technologies and solve complex data challenges.
 
@@ -13,7 +14,7 @@ I'm a Data Engineer with over 6 years of experience, specializing in Google Clou
 - **Cloud Platforms:** Google Cloud Platform (GCP)
 - **Data Engineering:** ETL, Data Warehousing, Big Data
 - **Programming:** Python, SQL
-- **Tools:** Apache Airflow, BigQuery, Dataflow
+- **Tools:** Apache Airflow, BigQuery, Dataflow, Cloudrun, Workflows, Pub/Sub
 
 ---
 
@@ -22,4 +23,3 @@ I'm a Data Engineer with over 6 years of experience, specializing in Google Clou
 Feel free to reach out or connect with me about data engineering, GCP, or collaboration opportunities!
 
 <!-- Add your LinkedIn, email, or other contact info here -->
-
