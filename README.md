@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there 👋 I'm Akshata Madavi
 
-<!--
-**Akshata4/Akshata4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Data Engineer with over 6 years of experience, specializing in Google Cloud Platform (GCP). My expertise includes building robust data pipelines, optimizing data workflows, and delivering scalable solutions for enterprise clients.
 
-Here are some ideas to get you started:
+- 🏢 Most recently, I was employed at LTIMindtree until March 2025.
+- ☁️ Passionate about cloud data engineering, automation, and data-driven decision making.
+- 💡 Always eager to learn new technologies and solve complex data challenges.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 Skills & Technologies
+
+- **Cloud Platforms:** Google Cloud Platform (GCP)
+- **Data Engineering:** ETL, Data Warehousing, Big Data
+- **Programming:** Python, SQL
+- **Tools:** Apache Airflow, BigQuery, Dataflow
+
+---
+
+## 📫 Let's Connect
+
+Feel free to reach out or connect with me about data engineering, GCP, or collaboration opportunities!
+
+<!-- Add your LinkedIn, email, or other contact info here -->
+
