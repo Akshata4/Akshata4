@@ -17,6 +17,11 @@ I'm a Data Engineer with over 6 years of experience, specializing in Google Clou
 - **Tools:** Apache Airflow, BigQuery, Dataflow, Cloudrun, Workflows, Pub/Sub
 
 ---
+![Akshata's github stats](https://github-readme-stats.vercel.app/api?username=Akshata4&show_icons=true&theme=dracula)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akshata4&layout=compact&theme=dracula)
+
+![Profile Views](https://komarev.com/ghpvc/?username=Akshata4&color=gray)
 
 ## 📫 Let's Connect
 
