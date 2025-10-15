@@ -8,7 +8,7 @@ I'm a Data Engineer with over 6 years of experience, specializing in Google Clou
 - 💡 Always eager to learn new technologies and solve complex data challenges.
 
 ---
-
+<!--
 ## 🔧 Skills & Technologies
 
 - **Cloud Platforms:** Google Cloud Platform (GCP)
@@ -16,15 +16,10 @@ I'm a Data Engineer with over 6 years of experience, specializing in Google Clou
 - **Programming:** Python, SQL
 - **Tools:** Apache Airflow, BigQuery, Dataflow, Cloudrun, Workflows, Pub/Sub
 
----
-![Akshata's github stats](https://github-readme-stats.vercel.app/api?username=Akshata4&show_icons=true&theme=dracula)
+--->
+![Akshata's github stats](https://github-readme-stats.vercel.app/api?username=Akshata4&show_icons=true&theme=default)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akshata4&layout=compact&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akshata4&layout=compact&theme=default)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Akshata4&color=gray)
 
-## 📫 Let's Connect
-
-Feel free to reach out or connect with me about data engineering, GCP, or collaboration opportunities!
-
-<!-- Add your LinkedIn, email, or other contact info here -->
