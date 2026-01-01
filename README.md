@@ -19,9 +19,8 @@ With 6+ years of experience as a Data Engineer, I enjoy building data-driven and
 - **Orchestration**: Workflows, Cloud Composer, Airflow
 
 
-![Akshata's github stats](https://github-readme-stats.vercel.app/api?username=Akshata4&show_icons=true&theme=default)
+![Akshata's github stats](https://githubcard.com/akshata4.svg?d=bvZ793Kr)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akshata4&layout=compact&theme=default)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Akshata4&color=gray)
 
